@@ -1,0 +1,13 @@
+LocationID,Description,Assumed Type of Travel,Latitude,Longitude,Year,Month,Day,Start Hour,Duration,Count
+1,Blaine and Sixth,Commute,46.7302,-116.9856,2014,10,9,7,2,33
+2,Jackson St and Sixth St.,Commute,46.730091,-117.002733,2014,10,9,7,2,73
+3,Hayes St. and Third St.,Commute,46.732427,-116.988507,2014,10,9,7,2,39
+4,N. Almon St and W. A St,Commute,46.734574,-117.004091,2014,10,9,16,2,37
+5,N. Main St and E. D St,Commute,46.73745,-117.001435,2014,10,9,16,2,17
+1,Blaine and Sixth,Commute,46.7302,-116.9856,2014,10,9,16,2,21
+2,Jackson St and Sixth St.,Commute,46.730091,-117.002733,2014,10,9,16,2,128
+8,Line St. and Sixth St.,Commute,46.729739,-117.012043,2014,10,9,16,2,177
+9,Line St. and State HWY 8,Commute,46.733368,-117.012038,2014,10,9,16,2,35
+10,Peterson Dr. and State HWY 8,Commute,46.732888,-117.016285,2014,10,9,16,2,83
+11,Main St. and Third St.,Commute,46.732373,-117.001388,2014,10,9,16,2,83
+12,US 95 and Styner/Laudner,Commute,46.721966,-117.001404,2014,10,9,16,2,45
